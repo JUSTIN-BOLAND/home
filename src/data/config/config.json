@@ -1,6 +1,6 @@
 {
     "homepage": {
-        "show_call_box": false
+        "show_call_box": true
     },
     "logo": {
         "mobile": "/images/logo/logo-mobile.svg",
